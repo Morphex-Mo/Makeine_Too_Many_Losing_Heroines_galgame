@@ -45,9 +45,9 @@ The contents of this repository are provided only for non-commercial preservatio
 ## Branches / 分支 / ブランチ
 
 - `main`: full archive with all platform files.
-- `Android`: Android package and usage notes.
-- `Windows`: Windows package.
-- `Mac`: macOS package.
+- `Android`: Android package and usage notes: https://github.com/Morphex-Mo/Makeine_Too_Many_Losing_Heroines_galgame/tree/Android
+- `Windows`: Windows package: https://github.com/Morphex-Mo/Makeine_Too_Many_Losing_Heroines_galgame/tree/Windows
+- `Mac`: macOS package: https://github.com/Morphex-Mo/Makeine_Too_Many_Losing_Heroines_galgame/tree/Mac
 
 ## License
 

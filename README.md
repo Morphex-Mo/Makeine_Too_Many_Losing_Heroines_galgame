@@ -1,6 +1,6 @@
 # Makeine Too Many Losing Heroines Galgame
 
-本仓库收录的游戏是由 **青梅社-海獭** 领导开发的 **青梅社** 同人产品 Galgame，相关资料请查看**https://space.bilibili.com/1535799240?spm_id_from=333.337.0.0**。
+本仓库收录的游戏是由 **青梅社-海獭** 领导开发的 **青梅社** 同人产品 Galgame，相关资料请查看https://space.bilibili.com/1535799240?spm_id_from=333.337.0.0。
 
 本人仅负责搬运与归档发布文件，并非该游戏的开发者、版权方或商业发行方。
 

@@ -1,4 +1,4 @@
-# Makeine Too Many Losing Heroines Galgame（败犬女主太多了同人galgame）
+# Makeine Too Many Losing Heroines Galgame  （败犬女主太多了同人galgame）
 
 ## 中文
 
